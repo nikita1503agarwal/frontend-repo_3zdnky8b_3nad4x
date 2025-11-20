@@ -3,11 +3,11 @@
 > vite
 
 
-  VITE v5.4.20  ready in 286 ms
+  VITE v5.4.20  ready in 284 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.5.216:3000/
-5:38:07 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
-5:38:08 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
-5:38:31 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
-5:38:32 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:42:09 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:42:10 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:42:14 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:42:15 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
